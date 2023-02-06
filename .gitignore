@@ -1,0 +1,7 @@
+.vscode
+
+*.mp4
+
+# Added by cargo
+
+/target
